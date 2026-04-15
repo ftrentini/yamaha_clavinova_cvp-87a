@@ -12,9 +12,9 @@ This repository contains ROM dumps extracted from the main board of a **Yamaha C
 ![ROM Chips Location](photos/roms_location.jpg)
 -->
 
-![Main Board](../documentation/pictures/IMG_0741.jpg)
+![Main Board](../documentation/pictures/IMG_0744.jpg)
 ![EPROM IC3 and IC5](../documentation/pictures/IMG_0742.jpg)
-![EPROM IC4](../documentation/pictures/IMG_0744.jpg)
+![EPROM IC4](../documentation/pictures/IMG_0741.jpg)
 ---
 
 ## 🗂️ ROM Files
