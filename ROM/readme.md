@@ -1,6 +1,7 @@
 # Yamaha Clavinova CVP-87A — ROM Dumps
 
 This repository contains ROM dumps extracted from the main board of a **Yamaha Clavinova CVP-87A** digital piano.
+If you have any dump you want to share, you may contribute, placing here: https://cloud.cfbt.com.br/s/mRrkL8kdoJCGXaH
 
 ---
 
