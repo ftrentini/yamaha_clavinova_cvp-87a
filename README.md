@@ -1,7 +1,7 @@
 # Restorative yoga for a Yamaha Clavinova CVP-87A
 
 I'm kidnapping this fork for myself - sorry McVenco! ahahah! Since I tried to pull some new info I'd like to share, but I don't want to change the soul of the original repository, I decided to make this my own.
-Long story short, after more than 5 years trying to revive a Clavinova CVP-87A, I finally did it. I wish I had documented better, but I am no blogger, sorry. I could promise you I will make some videos or tutorials teaching how I got there, but, really, I would be lying. You can read a little more on [my personal repository](https://www.electrolab.com.br/yamaha-cvp-87a-repair-the-full-saga/). Disclaimer: it´s really a personal knwoledge base where I write things for me and I really don't care much with beautifulness or grammar. It's more like a reminder of how did I achieved something. 
+Long story short, after more than 5 years trying to revive a Clavinova CVP-87A, I finally did it. I wish I had documented better, but I am no blogger, sorry. I could promise you I will make some videos or tutorials teaching how I got there, but, really, I would be lying. You can read a little more on [my personal repository](https://www.electrolab.com.br/yamaha-cvp-87a-repair-the-full-saga/). Disclaimer: it´s really a personal knwoledge base where I write things for me and I really don't care much with beautifulness or grammar. It's more like a reminder of how I did achieved something. 
 
 If you want to reach me, try email me to bGFiQGVsZWN0cm9sYWIuY29tLmJy (hint: base64) and I will answer you as soon as I can.
 
